@@ -1,2 +1,7 @@
-# xv6SystemCall
-Adds a new system call getparentname to the xv6 OS that retrieves the names of the current process and its parent process.
+name: Sai Gungurthi
+cs login: gungurthi
+wisc id: 9079376720
+email: sgungurthi@wisc.edu
+status: passed all 3 given tests
+changes: sysproc.c, user.h, getparentname.c, usys.S, syscall.h, syscall.c, Makefile
+
